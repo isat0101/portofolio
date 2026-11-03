@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2190" height="504" viewBox="0 0 2190 504">
+<rect width="100%" height="100%" fill="#f5f7fa"/>
+<text x="24" y="39" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#203750"><tspan x="24" dy="0">Tabel 6.2 ? Pengujian Use Case Login</tspan></text>
+<text x="24" y="70" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#66788d"><tspan x="24" dy="0">DPL SIPAKT ? 5 skenario pengujian</tspan></text>
+<rect x="0" y="92" width="180" height="68" fill="#e7edf5" stroke="#9eacbc" stroke-width="1.5"/>
+<text x="12" y="117" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#203750"><tspan x="12" dy="0">Identifikasi</tspan></text>
+<rect x="180" y="92" width="300" height="68" fill="#e7edf5" stroke="#9eacbc" stroke-width="1.5"/>
+<text x="192" y="117" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#203750"><tspan x="192" dy="0">Deskripsi</tspan></text>
+<rect x="480" y="92" width="430" height="68" fill="#e7edf5" stroke="#9eacbc" stroke-width="1.5"/>
+<text x="492" y="117" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#203750"><tspan x="492" dy="0">Prosedur Pengujian</tspan></text>
+<rect x="910" y="92" width="260" height="68" fill="#e7edf5" stroke="#9eacbc" stroke-width="1.5"/>
+<text x="922" y="117" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#203750"><tspan x="922" dy="0">Masukan</tspan></text>
+<rect x="1170" y="92" width="420" height="68" fill="#e7edf5" stroke="#9eacbc" stroke-width="1.5"/>
+<text x="1182" y="117" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#203750"><tspan x="1182" dy="0">Keluaran yang Diharapkan</tspan></text>
+<rect x="1590" y="92" width="420" height="68" fill="#e7edf5" stroke="#9eacbc" stroke-width="1.5"/>
+<text x="1602" y="117" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#203750"><tspan x="1602" dy="0">Hasil yang Didapat</tspan></text>
+<rect x="2010" y="92" width="180" height="68" fill="#e7edf5" stroke="#9eacbc" stroke-width="1.5"/>
+<text x="2022" y="117" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#203750"><tspan x="2022" dy="0">Kesimpulan</tspan></text>
+<rect x="0" y="160" width="180" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="12" y="183" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="12" dy="0">PDHU PL-1.a</tspan></text>
+<rect x="180" y="160" width="300" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="192" y="183" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="192" dy="0">Login dengan username dan</tspan><tspan x="192" dy="22">password yang kosong</tspan></text>
+<rect x="480" y="160" width="430" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="492" y="183" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="492" dy="0">Kosongkan username dan password lalu pilih</tspan><tspan x="492" dy="22">tombol login</tspan></text>
+<rect x="910" y="160" width="260" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="922" y="183" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="922" dy="0">-</tspan></text>
+<rect x="1170" y="160" width="420" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="1182" y="183" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="1182" dy="0">Muncul pesan kesalahan</tspan></text>
+<rect x="1590" y="160" width="420" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="1602" y="183" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="1602" dy="0">Muncul pesan kesalahan</tspan></text>
+<rect x="2010" y="160" width="180" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="2022" y="183" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#247447"><tspan x="2022" dy="0">Diterima</tspan></text>
+<rect x="0" y="224" width="180" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="12" y="247" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="12" dy="0">PDHU PL-1.b</tspan></text>
+<rect x="180" y="224" width="300" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="192" y="247" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="192" dy="0">Login dengan username yang</tspan><tspan x="192" dy="22">kosong</tspan></text>
+<rect x="480" y="224" width="430" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="492" y="247" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="492" dy="0">Input password saja lalu pilih tombol login</tspan></text>
+<rect x="910" y="224" width="260" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="922" y="247" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="922" dy="0">password</tspan></text>
+<rect x="1170" y="224" width="420" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="1182" y="247" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="1182" dy="0">Muncul pesan kesalahan</tspan></text>
+<rect x="1590" y="224" width="420" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="1602" y="247" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="1602" dy="0">Muncul pesan kesalahan</tspan></text>
+<rect x="2010" y="224" width="180" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="2022" y="247" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#247447"><tspan x="2022" dy="0">Diterima</tspan></text>
+<rect x="0" y="288" width="180" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="12" y="311" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="12" dy="0">PDHU PL-1.c</tspan></text>
+<rect x="180" y="288" width="300" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="192" y="311" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="192" dy="0">Login dengan password yang</tspan><tspan x="192" dy="22">kosong</tspan></text>
+<rect x="480" y="288" width="430" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="492" y="311" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="492" dy="0">Input username lalu pilih tombol login</tspan></text>
+<rect x="910" y="288" width="260" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="922" y="311" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="922" dy="0">username</tspan></text>
+<rect x="1170" y="288" width="420" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="1182" y="311" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="1182" dy="0">Muncul pesan kesalahan</tspan></text>
+<rect x="1590" y="288" width="420" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="1602" y="311" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="1602" dy="0">Muncul pesan kesalahan</tspan></text>
+<rect x="2010" y="288" width="180" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="2022" y="311" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#247447"><tspan x="2022" dy="0">Diterima</tspan></text>
+<rect x="0" y="352" width="180" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="12" y="375" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="12" dy="0">PDHU PL-1.d</tspan></text>
+<rect x="180" y="352" width="300" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="192" y="375" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="192" dy="0">Login dengan username dan</tspan><tspan x="192" dy="22">password yang tidak valid</tspan></text>
+<rect x="480" y="352" width="430" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="492" y="375" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="492" dy="0">Input username dan password yang tidak</tspan><tspan x="492" dy="22">valid lalu pilih tombol login</tspan></text>
+<rect x="910" y="352" width="260" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="922" y="375" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="922" dy="0">useranme, password yang</tspan><tspan x="922" dy="22">tidak valid</tspan></text>
+<rect x="1170" y="352" width="420" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="1182" y="375" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="1182" dy="0">Muncul pesan kesalahan</tspan></text>
+<rect x="1590" y="352" width="420" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="1602" y="375" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="1602" dy="0">Muncul pesan kesalahan</tspan></text>
+<rect x="2010" y="352" width="180" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="2022" y="375" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#247447"><tspan x="2022" dy="0">Diterima</tspan></text>
+<rect x="0" y="416" width="180" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="12" y="439" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="12" dy="0">PDHU PL-1.e</tspan></text>
+<rect x="180" y="416" width="300" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="192" y="439" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="192" dy="0">Login dengan username dan</tspan><tspan x="192" dy="22">password yang valid</tspan></text>
+<rect x="480" y="416" width="430" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="492" y="439" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="492" dy="0">Input username dan password yang valid lalu</tspan><tspan x="492" dy="22">pilih tombol login</tspan></text>
+<rect x="910" y="416" width="260" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="922" y="439" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="922" dy="0">useranme, password yang</tspan><tspan x="922" dy="22">valid</tspan></text>
+<rect x="1170" y="416" width="420" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="1182" y="439" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="1182" dy="0">Masuk ke Dashboard</tspan></text>
+<rect x="1590" y="416" width="420" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="1602" y="439" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="1602" dy="0">Masuk ke Dashboard</tspan></text>
+<rect x="2010" y="416" width="180" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="2022" y="439" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#247447"><tspan x="2022" dy="0">Diterima</tspan></text>
+</svg>

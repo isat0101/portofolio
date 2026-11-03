@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2190" height="590" viewBox="0 0 2190 590">
+<rect width="100%" height="100%" fill="#f5f7fa"/>
+<text x="24" y="39" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#203750"><tspan x="24" dy="0">Tabel 6.8 ? Pengujian Use Case Kelola Barang Keluar</tspan></text>
+<text x="24" y="70" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#66788d"><tspan x="24" dy="0">DPL SIPAKT ? 6 skenario pengujian</tspan></text>
+<rect x="0" y="92" width="180" height="68" fill="#e7edf5" stroke="#9eacbc" stroke-width="1.5"/>
+<text x="12" y="117" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#203750"><tspan x="12" dy="0">Identifikasi</tspan></text>
+<rect x="180" y="92" width="300" height="68" fill="#e7edf5" stroke="#9eacbc" stroke-width="1.5"/>
+<text x="192" y="117" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#203750"><tspan x="192" dy="0">Deskripsi</tspan></text>
+<rect x="480" y="92" width="430" height="68" fill="#e7edf5" stroke="#9eacbc" stroke-width="1.5"/>
+<text x="492" y="117" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#203750"><tspan x="492" dy="0">Prosedur Pengujian</tspan></text>
+<rect x="910" y="92" width="260" height="68" fill="#e7edf5" stroke="#9eacbc" stroke-width="1.5"/>
+<text x="922" y="117" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#203750"><tspan x="922" dy="0">Masukan</tspan></text>
+<rect x="1170" y="92" width="420" height="68" fill="#e7edf5" stroke="#9eacbc" stroke-width="1.5"/>
+<text x="1182" y="117" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#203750"><tspan x="1182" dy="0">Keluaran yang Diharapkan</tspan></text>
+<rect x="1590" y="92" width="420" height="68" fill="#e7edf5" stroke="#9eacbc" stroke-width="1.5"/>
+<text x="1602" y="117" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#203750"><tspan x="1602" dy="0">Hasil yang Didapat</tspan></text>
+<rect x="2010" y="92" width="180" height="68" fill="#e7edf5" stroke="#9eacbc" stroke-width="1.5"/>
+<text x="2022" y="117" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#203750"><tspan x="2022" dy="0">Kesimpulan</tspan></text>
+<rect x="0" y="160" width="180" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="12" y="183" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="12" dy="0">PDHU PL-7.a</tspan></text>
+<rect x="180" y="160" width="300" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="192" y="183" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="192" dy="0">Tambah data dengan semua</tspan><tspan x="192" dy="22">field kosong.</tspan></text>
+<rect x="480" y="160" width="430" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="492" y="183" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="492" dy="0">Pilih tombol tambah lalu kosongkan data</tspan><tspan x="492" dy="22">pengeluaran lalu pilih tombol simpan</tspan></text>
+<rect x="910" y="160" width="260" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="922" y="183" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="922" dy="0">-</tspan></text>
+<rect x="1170" y="160" width="420" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="1182" y="183" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="1182" dy="0">Muncul pesan kesalahan</tspan></text>
+<rect x="1590" y="160" width="420" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="1602" y="183" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="1602" dy="0">Muncul pesan kesalahan</tspan></text>
+<rect x="2010" y="160" width="180" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="2022" y="183" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#247447"><tspan x="2022" dy="0">Diterima</tspan></text>
+<rect x="0" y="224" width="180" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="12" y="247" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="12" dy="0">PDHU PL-7.b</tspan></text>
+<rect x="180" y="224" width="300" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="192" y="247" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="192" dy="0">Tambah data dengan data yang</tspan><tspan x="192" dy="22">lengkap tetapi tidak valid</tspan></text>
+<rect x="480" y="224" width="430" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="492" y="247" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="492" dy="0">Pilih tombol tambah lalu input data</tspan><tspan x="492" dy="22">pengeluaran lalu pilih tombol simpan</tspan></text>
+<rect x="910" y="224" width="260" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="922" y="247" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="922" dy="0">Data pengeluaran yang</tspan><tspan x="922" dy="22">tidak valid</tspan></text>
+<rect x="1170" y="224" width="420" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="1182" y="247" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="1182" dy="0">Muncul pesan kesalahan</tspan></text>
+<rect x="1590" y="224" width="420" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="1602" y="247" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="1602" dy="0">Muncul pesan kesalahan</tspan></text>
+<rect x="2010" y="224" width="180" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="2022" y="247" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#247447"><tspan x="2022" dy="0">Diterima</tspan></text>
+<rect x="0" y="288" width="180" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="12" y="311" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="12" dy="0">PDHU PL-7.c</tspan></text>
+<rect x="180" y="288" width="300" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="192" y="311" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="192" dy="0">Tambah data dengan data yang</tspan><tspan x="192" dy="22">lengkap dan valid</tspan></text>
+<rect x="480" y="288" width="430" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="492" y="311" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="492" dy="0">Pilih tombol tambah lalu input data</tspan><tspan x="492" dy="22">pengeluaran lalu pilih tombol simpan</tspan></text>
+<rect x="910" y="288" width="260" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="922" y="311" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="922" dy="0">Data pemesanan yang valid</tspan></text>
+<rect x="1170" y="288" width="420" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="1182" y="311" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="1182" dy="0">Muncul pesan data pengeluaran berhasil</tspan><tspan x="1182" dy="22">ditambahkan</tspan></text>
+<rect x="1590" y="288" width="420" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="1602" y="311" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="1602" dy="0">Muncul pesan data pengeluaran berhasil</tspan><tspan x="1602" dy="22">ditambahkan</tspan></text>
+<rect x="2010" y="288" width="180" height="64" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="2022" y="311" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#247447"><tspan x="2022" dy="0">Diterima</tspan></text>
+<rect x="0" y="352" width="180" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="12" y="375" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="12" dy="0">PDHU PL-7.d</tspan></text>
+<rect x="180" y="352" width="300" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="192" y="375" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="192" dy="0">Export semua data pengeluaran</tspan><tspan x="192" dy="22">(PDF)</tspan></text>
+<rect x="480" y="352" width="430" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="492" y="375" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="492" dy="0">Pilih tombol export (PDF)</tspan></text>
+<rect x="910" y="352" width="260" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="922" y="375" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="922" dy="0">-</tspan></text>
+<rect x="1170" y="352" width="420" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="1182" y="375" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="1182" dy="0">Tampil semua data pengeluaran (PDF)</tspan></text>
+<rect x="1590" y="352" width="420" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="1602" y="375" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="1602" dy="0">Tampil semua data pengeluaran (PDF)</tspan></text>
+<rect x="2010" y="352" width="180" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="2022" y="375" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#247447"><tspan x="2022" dy="0">Diterima</tspan></text>
+<rect x="0" y="416" width="180" height="86" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="12" y="439" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="12" dy="0">PDHU PL-7.e</tspan></text>
+<rect x="180" y="416" width="300" height="86" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="192" y="439" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="192" dy="0">Melihat detail pengeluaran</tspan></text>
+<rect x="480" y="416" width="430" height="86" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="492" y="439" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="492" dy="0">Pilih transaksi pengeluaran mana yang ingin</tspan><tspan x="492" dy="22">dilihat detailnya lalu pilih tombol lihat</tspan><tspan x="492" dy="22">detail pengeluaran</tspan></text>
+<rect x="910" y="416" width="260" height="86" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="922" y="439" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="922" dy="0">-</tspan></text>
+<rect x="1170" y="416" width="420" height="86" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="1182" y="439" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="1182" dy="0">Tampil data detail pengeluaran</tspan></text>
+<rect x="1590" y="416" width="420" height="86" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="1602" y="439" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="1602" dy="0">Tampil data detail pengeluaran</tspan></text>
+<rect x="2010" y="416" width="180" height="86" fill="#ffffff" stroke="#bdc8d4" stroke-width="1"/>
+<text x="2022" y="439" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#247447"><tspan x="2022" dy="0">Diterima</tspan></text>
+<rect x="0" y="502" width="180" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="12" y="525" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="12" dy="0">PDHU PL- 7.f</tspan></text>
+<rect x="180" y="502" width="300" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="192" y="525" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="192" dy="0">Export data detail</tspan><tspan x="192" dy="22">pengeluaran (PDF)</tspan></text>
+<rect x="480" y="502" width="430" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="492" y="525" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="492" dy="0">Pilih tombol export (PDF)</tspan></text>
+<rect x="910" y="502" width="260" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="922" y="525" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="922" dy="0">-</tspan></text>
+<rect x="1170" y="502" width="420" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="1182" y="525" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="1182" dy="0">Tampil data detail pengeluaran (PDF)</tspan></text>
+<rect x="1590" y="502" width="420" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="1602" y="525" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#25384d"><tspan x="1602" dy="0">Tampil data detail pengeluaran (PDF)</tspan></text>
+<rect x="2010" y="502" width="180" height="64" fill="#f9fbfd" stroke="#bdc8d4" stroke-width="1"/>
+<text x="2022" y="525" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#247447"><tspan x="2022" dy="0">Diterima</tspan></text>
+</svg>

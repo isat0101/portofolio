@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="870" viewBox="0 0 1300 870">
+  <rect width="1300" height="870" fill="#f4f7fb"/>
+  <rect x="20" y="20" width="1260" height="830" rx="18" fill="#ffffff" stroke="#d8e1eb"/>
+  <text x="55" y="67" fill="#172d45" font-family="Arial, sans-serif" font-size="31" font-weight="700">Matriks Masalah PIECES</text>
+  <text x="55" y="98" fill="#61758b" font-family="Arial, sans-serif" font-size="16">Ringkasan enam aspek dan permasalahan proses penyampaian informasi komoditas.</text>
+  <rect x="48" y="124" width="1204" height="48" rx="7" fill="#1e3855"/>
+  <text x="72" y="155" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" font-weight="700">ASPEK PIECES</text>
+  <text x="323" y="155" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" font-weight="700">TEMUAN PADA PROSES YANG BERJALAN</text>
+
+  <g font-family="Arial, sans-serif" font-size="15" fill="#334960">
+    <rect x="48" y="172" width="1204" height="106" fill="#f8fafc"/>
+    <text x="72" y="213" fill="#245fbd" font-size="18" font-weight="700">Performance</text>
+    <text x="323" y="198">1. Informasi melalui media sosial sering mengalami kendala akses.</text>
+    <text x="323" y="225">2. Pencarian informasi komoditas membutuhkan waktu lama.</text>
+    <text x="323" y="252">3. Respon dinas terhadap pertanyaan masyarakat masih lambat.</text>
+
+    <rect x="48" y="278" width="1204" height="106" fill="#ffffff"/>
+    <text x="72" y="319" fill="#245fbd" font-size="18" font-weight="700">Information</text>
+    <text x="323" y="304">1. Informasi kurang jelas dan sulit dipahami.</text>
+    <text x="323" y="331">2. Informasi mengenai komoditas tanaman belum lengkap.</text>
+    <text x="323" y="358">3. Kebenaran dan keakuratan informasi terkadang diragukan.</text>
+
+    <rect x="48" y="384" width="1204" height="106" fill="#f8fafc"/>
+    <text x="72" y="425" fill="#245fbd" font-size="18" font-weight="700">Economics</text>
+    <text x="323" y="410">1. Penggunaan media sosial dapat menimbulkan biaya tambahan.</text>
+    <text x="323" y="437">2. Penyampaian informasi belum efisien dari sisi biaya.</text>
+    <text x="323" y="464">3. Penggunaan kuota internet belum hemat.</text>
+
+    <rect x="48" y="490" width="1204" height="106" fill="#ffffff"/>
+    <text x="72" y="531" fill="#245fbd" font-size="18" font-weight="700">Control</text>
+    <text x="323" y="516">1. Interaksi melalui media sosial belum cukup aman.</text>
+    <text x="323" y="543">2. Informasi yang dibagikan berisiko disalahgunakan.</text>
+    <text x="323" y="570">3. Pengelolaan akses informasi belum memadai.</text>
+
+    <rect x="48" y="596" width="1204" height="106" fill="#f8fafc"/>
+    <text x="72" y="637" fill="#245fbd" font-size="18" font-weight="700">Efficiency</text>
+    <text x="323" y="622">1. Media sosial belum memudahkan pencarian informasi.</text>
+    <text x="323" y="649">2. Pengguna perlu berusaha lebih untuk menemukan informasi.</text>
+    <text x="323" y="676">3. Proses belum efisien dari sisi waktu dan tenaga.</text>
+
+    <rect x="48" y="702" width="1204" height="106" fill="#ffffff"/>
+    <text x="72" y="743" fill="#245fbd" font-size="18" font-weight="700">Service</text>
+    <text x="323" y="728">1. Pelayanan untuk menjawab pertanyaan belum berjalan baik.</text>
+    <text x="323" y="755">2. Interaksi masyarakat dan dinas belum efektif.</text>
+    <text x="323" y="782">3. Media sosial belum optimal sebagai sarana komunikasi.</text>
+  </g>
+  <path d="M300 172v636M48 278h1204M48 384h1204M48 490h1204M48 596h1204M48 702h1204M48 808h1204" stroke="#dce5ee" fill="none"/>
+  <text x="55" y="833" fill="#71839a" font-family="Arial, sans-serif" font-size="13">Sumber: Laporan TA SIKOMAN, Tabel IV.8, hlm. IV-28–29.</text>
+</svg>
