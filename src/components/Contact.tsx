@@ -26,7 +26,7 @@ export function Contact({ language }: { language: Language }) {
             <h2>{language === "id" ? "Unduh CV" : "Download CV"}</h2>
             <p>{language === "id" ? "Riwayat pendidikan, pengalaman, dan kompetensi untuk posisi yang dituju." : "Education, experience, and qualifications for your review."}</p>
           </div>
-          <a className="button button-primary" href={profile.cv} download><ArrowDownToLine size={16} />{language === "id" ? "Unduh CV" : "Download CV"}</a>
+          <a className="button button-primary" href={profile.cv} target="_blank" rel="noreferrer"><ArrowDownToLine size={16} />{language === "id" ? "Unduh CV" : "Download CV"}</a>
         </div>
       </section>
       <section className="section-block contact-section" id="kontak">

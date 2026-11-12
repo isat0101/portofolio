@@ -45,7 +45,7 @@ export function Header({ language, onLanguageChange, activeSection, isProjectPag
           {links.map((link) => (
             <a key={link.id} className={activeSection === link.id ? "nav-link is-active" : "nav-link"} href={isProjectPage ? "/#" + link.anchor : "#" + link.anchor} onClick={(event) => navigateToSection(event, link.anchor)}>{link.label}</a>
           ))}
-          <a className="nav-cv" href={profile.cv} download>{text.cv}<ArrowDownToLine size={15} /></a>
+          <a className="nav-cv" href={profile.cv} target="_blank" rel="noreferrer">{text.cv}<ArrowDownToLine size={15} /></a>
         </div>
         <div className="nav-tools">
           <div className="language-toggle" aria-label="Choose language">

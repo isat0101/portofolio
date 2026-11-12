@@ -12,7 +12,7 @@ export const profile = {
   whatsapp: "https://wa.me/6289506790428",
   linkedin: "https://www.linkedin.com/in/satria-eka-raharjo-68a41a3a8",
   github: "https://github.com/isat0101",
-  cv: "/CV-Satria-Eka-Raharjo.pdf",
+  cv: "https://drive.google.com/drive/folders/1hgIC6rroqpg3q10qcxn95rXA3HI7a8kH?usp=sharing",
   photo: "/profile.jpg",
   location: "Bandung, Jawa Barat",
 };
